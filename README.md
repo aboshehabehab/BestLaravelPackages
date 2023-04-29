@@ -12,3 +12,4 @@
 - [mcamara/laravel-localization]          (https://github.com/mcamara/laravel-localization) - (Laravel Localization)
 - [phattarachai/laravel-mobile-detect]    (https://github.com/phattarachai/laravel-mobile-detect) - (A PHP desktop/mobile user agent parser with support for Laravel)
 - [spatie/laravel-sitemap]                (https://github.com/spatie/laravel-sitemap) - (Generate a sitemap without you having to add urls to it manually)
+- [barryvdh/laravel-debugbar]             (https://github.com/barryvdh/laravel-debugbar) - (This is a package to integrate PHP Debug Bar with Laravel.)
